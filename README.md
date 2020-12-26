@@ -1,2 +1,5 @@
-# Project-25
-Modify The Blueprints Of The Objects In The Crumpled Ball Game.
+Project 25: Crumpled Balls 2
+
+This project is continuation of 'Crumpled Balls 1' in which picture is added to paper and dustbin.
+
+By Malik Ahhmed Nawaz Noon
